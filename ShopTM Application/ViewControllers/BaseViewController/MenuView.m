@@ -111,7 +111,15 @@
             arrSubMenu = [NSArray arrayWithArray:item];
             subCategory = YES;
             [self.btnBack setHidden:NO];
-            [self.menuTableView reloadData];
+            [UIView transitionWithView: self.menuTableView
+                              duration: 0.35f
+                               options: UIViewAnimationOptionTransitionFlipFromRight
+                            animations: ^(void)
+             {
+                 [self.menuTableView reloadData];
+             }
+                            completion: nil];
+
             
         }
 
@@ -123,7 +131,14 @@
     subCategory = NO;
     arrSubMenu = nil;
     [self.btnBack setHidden:YES];
-    [self.menuTableView reloadData];
+    [UIView transitionWithView: self.menuTableView
+                      duration: 0.35f
+                       options: UIViewAnimationOptionTransitionFlipFromLeft
+                    animations: ^(void)
+     {
+         [self.menuTableView reloadData];
+     }
+                    completion: nil];
     
 }
 @end

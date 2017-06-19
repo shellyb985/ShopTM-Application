@@ -75,6 +75,9 @@
 
     
     [self getMainJson];
+    
+    [self.view updateConstraintsIfNeeded];
+    [self.view layoutIfNeeded];
 }
 
 - (void)didReceiveMemoryWarning {
@@ -122,7 +125,7 @@
         [cell.featureCollectionView setTag:indexPath.row];
         [cell.featureCollectionView setDataSource:self];
         [cell.featureCollectionView setDelegate:self];
-        
+        [cell.featureCollectionView reloadData];
         if (indexPath.row == 0) {
             [cell.vwBackground setBackgroundColor:RBG_COLOR(2.0, 33.0, 172.0, 1.0)];
             [cell.lblTitle setTextColor:[UIColor whiteColor]];
