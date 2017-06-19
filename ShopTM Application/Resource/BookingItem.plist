@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>Movies</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Bus</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Flights</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Trains</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Amusement Park</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Hotels</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Events</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Gift Card</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Moview Under 100</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Cars &amp; Bikes</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>Deals</string>
+		<key>image</key>
+		<string>MobileIcon</string>
+	</dict>
+</array>
+</plist>

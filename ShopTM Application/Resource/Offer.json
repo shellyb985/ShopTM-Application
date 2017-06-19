@@ -1,0 +1,35 @@
+{
+	"Travel": [
+		"https://assetscdn1.paytm.com/images/catalog/view_item/122726/1497205583770.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/122724/1496769182456.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/122725/1496769391176.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/122727/1496769569621.jpg"
+	],
+
+	"Utility": [
+		"https://assetscdn1.paytm.com/images/catalog/view_item/108499/1490987444904.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/108500/1490335855697.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/81258/1476333282955.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/81253/1476333110552.jpg"
+	],
+	"Recharge": [
+		"https://assetscdn1.paytm.com/images/catalog/view_item/112509/1492315484937.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/111402/1491802129076.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/101745/1497257312079.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/101747/1487574428652.jpg"
+	],
+	"Entertainment": [
+		"https://assetscdn1.paytm.com/images/catalog/view_item/123011/1497330644898.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/123640/1497277125253.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/121455/1497330698198.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/118702/1497332373886.jpg"
+	],
+	"PaywithPaytm": [
+		"https://assetscdn1.paytm.com/images/catalog/view_item/123608/1497268435543.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/123055/1496919074982.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/124047/1497343620332.jpg",
+		"https://assetscdn1.paytm.com/images/catalog/view_item/121406/1496291953560.jpg"
+	]
+
+
+}

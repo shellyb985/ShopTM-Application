@@ -1,0 +1,49 @@
+{
+    "MallPromotion" : [
+                       {
+                       "id": "Clearence Sale",
+                       "image": "ClearenceSale_MSIcon",
+                       "couponCode": "Live Now"
+                       },
+                       {
+                       "id": "Bazaar",
+                       "image": "Bazaar_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "World Store",
+                       "image": "WorldStore_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "supermarket",
+                       "image": "SuperMarket_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "Father's Day",
+                       "image": "FathersDay_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "Upgrade to Apple",
+                       "image": "UpgradeToApple_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "The Big TV Sale",
+                       "image": "BigTVSale_MSIcon",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "Big Bazaar",
+                       "couponCode": ""
+                       },
+                       {
+                       "id": "Luxury Longe",
+                       "image": "Luxury_MSIcon",
+                       "couponCode": ""
+                       }
+                       ]
+
+}

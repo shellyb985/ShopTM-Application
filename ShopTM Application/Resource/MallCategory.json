@@ -1,0 +1,46 @@
+{
+    "MallCategory" : [
+                      {
+                      "id": "TVs, ACs & Appliances",
+                      "image": "TV_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Mobiles",
+                      "image": "Mobile_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Electronics & Appliances",
+                      "image": "Electronics_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Clothings",
+                      "image": "Cloth_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Shoes",
+                      "image": "Shoe_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Fashion Accessories",
+                      "image": "Fashion_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Home & Kitchen",
+                      "image": "Kitchen_MPIcon",
+                      "couponCode": ""
+                      },
+                      {
+                      "id": "Toy & Baby Products",
+                      "image": "Toy_MPIcon",
+                      "couponCode": ""
+                      }
+                      
+                      ]
+
+}

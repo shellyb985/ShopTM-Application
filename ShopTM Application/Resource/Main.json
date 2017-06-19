@@ -1,0 +1,392 @@
+{
+    "mainJson" : [{
+                  "type": "feature",
+                  "title": "Tap to see your Paytm balance",
+                  "content": [{
+                              "id": "Pay",
+                              "image": "PayIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Add Money",
+                              "image": "AddMoneyIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Passbook",
+                              "image": "PassBookIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Payment KYC",
+                              "image": "PaymentKYCIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Accept Payment",
+                              "image": "AcceptPaymentIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Nearby",
+                              "image": "NearByIcon",
+                              "couponCode": ""
+                              }
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "feature",
+                  "title": "Reachage or Pay for",
+                  "content": [{
+                              "id": "Mobile",
+                              "image": "MobileIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Electricity",
+                              "image": "ElectricityIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "DTH",
+                              "image": "DTHIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Fees",
+                              "image": "FeeIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Gold",
+                              "image": "GoldIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Landline",
+                              "image": "LandLineIcon",
+                              "couponCode": ""
+                              }, {
+                              "id": "Metro",
+                              "image": "MetroIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Broadband",
+                              "image": "BroadBandIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Datacard",
+                              "image": "DatacardIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Gas",
+                              "image": "GasIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Insurance",
+                              "image": "InsuranceIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Loan",
+                              "image": "LoanIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Water",
+                              "image": "WaterIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Petrol",
+                              "image": "PetrolIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Dairy Products",
+                              "image": "DairyProductIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Toll Tag",
+                              "image": "TollTagIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Google Play",
+                              "image": "GooglePlayIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Challan",
+                              "image": "ChallanIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Municipal Payments",
+                              "image": "image",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Delhi Metro Ticket",
+                              "image": "MetroIcon",
+                              "couponCode": ""
+                              }
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "feature",
+                  "title": "Book on Paytm",
+                  "content": [{
+                              "id": "Movies",
+                              "image": "Movie_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Bus",
+                              "image": "Bus_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Flight",
+                              "image": "Flight_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Train",
+                              "image": "Train_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Amusement Park",
+                              "image": "AmusementPark_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Hotels",
+                              "image": "Hotel_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Events",
+                              "image": "Event_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Gift Cards",
+                              "image": "GiftCard_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Movies Under 100",
+                              "image": "MovieUnde100_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Cars & Bikes",
+                              "image": "CarBike_BIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Deal",
+                              "image": "Deal_BIcon",
+                              "couponCode": ""
+                              }
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "mainoffer",
+                  "title": "",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/124077/1497347774274.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123764/1497287808895.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123765/1497287907561.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123924/1497329917113.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123780/1497288313680.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/119723/1496169543244.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123783/1497288452006.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123786/1497328010985.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/119747/1495693159798.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/122982/1496995155369.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123735/1497286600413.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123738/1497286773967.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123743/1497341967238.jpg",
+                              "https: //assetscdn1.paytm.com/images/catalog/view_item/120755/1497284758818.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "feature",
+                  "title": "Mall Categories",
+                  "content": [{
+                              "id": "TVs, ACs & Appliances",
+                              "image": "TV_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Mobiles",
+                              "image": "Mobile_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Electronics & Appliances",
+                              "image": "Electronics_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Clothings",
+                              "image": "Cloth_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Shoes",
+                              "image": "Shoe_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Fashion Accessories",
+                              "image": "Fashion_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Home & Kitchen",
+                              "image": "Kitchen_MPIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Toy & Baby Products",
+                              "image": "Toy_MPIcon",
+                              "couponCode": ""
+                              }
+                              
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "feature",
+                  "title": "Mall Super Store and Promotions",
+                  "content": [{
+                              "id": "Clearence Sale",
+                              "image": "ClearenceSale_MSIcon",
+                              "couponCode": "Live Now"
+                              },
+                              {
+                              "id": "Bazaar",
+                              "image": "Bazaar_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "World Store",
+                              "image": "WorldStore_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "supermarket",
+                              "image": "SuperMarket_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Father's Day",
+                              "image": "FathersDay_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Upgrade to Apple",
+                              "image": "UpgradeToApple_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "The Big TV Sale",
+                              "image": "BigTVSale_MSIcon",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Big Bazaar",
+                              "couponCode": ""
+                              },
+                              {
+                              "id": "Luxury Longe",
+                              "image": "Luxury_MSIcon",
+                              "couponCode": ""
+                              }
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Travel",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/122726/1497205583770.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/122724/1496769182456.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/122725/1496769391176.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/122727/1496769569621.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Utility",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/108499/1490987444904.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/108500/1490335855697.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/81258/1476333282955.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/81253/1476333110552.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Recharge",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/112509/1492315484937.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/111402/1491802129076.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/101745/1497257312079.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/101747/1487574428652.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Entertainment",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123011/1497330644898.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123640/1497277125253.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/121455/1497330698198.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/118702/1497332373886.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Pay with Paytm",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123608/1497268435543.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123055/1496919074982.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/124047/1497343620332.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/121406/1496291953560.jpg"
+                              ],
+                  "extra": ""
+                  },
+                  {
+                  "type": "normaloffer",
+                  "title": "Gift Cards",
+                  "content": [
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123608/1497268435543.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/123055/1496919074982.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/124047/1497343620332.jpg",
+                              "https://assetscdn1.paytm.com/images/catalog/view_item/121406/1496291953560.jpg"
+                              ],
+                  "extra": ""
+                  }
+                  
+                  
+                  ]
+    
+}

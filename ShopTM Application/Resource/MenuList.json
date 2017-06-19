@@ -1,0 +1,119 @@
+{
+    "MenuList": [{
+                 "name": "Recharge or Pay for",
+                 "item": [
+                          "Mobile",
+                          "Electricity",
+                          "DTH",
+                          "Metro",
+                          "Gas",
+                          "Datacard",
+                          "LandLine/Broadband",
+                          "Digital Gold",
+                          "Fees",
+                          "Insurance",
+                          "Load",
+                          "Water",
+                          "Challan"
+                          ],
+                 "id": "0",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Book on Paytm",
+                 "item": [
+                          "Bus Ticket",
+                          "Flight Ticket",
+                          "Train Ticket",
+                          "Amusement Park Ticket",
+                          "Event Ticket",
+                          "Movie Ticket",
+                          "Hotels",
+                          "Gift Cards"
+                          ],
+                 "id": "1",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Shop on Paytm",
+                 "item": [
+                          "Mobiles",
+                          "TVs, ACs & Appliances",
+                          "Electronice & Accessories",
+                          "Clothings",
+                          "Shoes",
+                          "Fashion Accessories",
+                          "Supermarket",
+                          "Super Value Bazaar",
+                          "Home & Kitchen",
+                          "Fitness & Sports",
+                          "World Store",
+                          "Bags & Luggage",
+                          "Cars & Bikes",
+                          "Cars & Bike Accessories",
+                          "Toys & Baby Products",
+                          "Stationary & Books"
+                          ],
+                 "id": "2",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Offers",
+                 "item": [
+                          "Flight Ticket Offers",
+                          "Digital Gold",
+                          "Events",
+                          "Win a Royal Enfield",
+                          "Food Deal upto 100% CB",
+                          "World Store Top Offer",
+                          "Play & Win 25K Paytm Cash",
+                          "Deals"
+                          ],
+                 "id": "3",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Digital Gold",
+                 "item": [],
+                 "id": "4",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Sunday Bazzar",
+                 "item": [],
+                 "id": "5",
+                 "offercode": "sale"
+                 },
+                 {
+                 "name": "Movie Tickets",
+                 "item": [],
+                 "id": "6",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Flight Tickeds",
+                 "item": [],
+                 "id": "7",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Mobile Recharge",
+                 "item": [],
+                 "id": "8",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Electricity",
+                 "item": [],
+                 "id": "9",
+                 "offercode": ""
+                 },
+                 {
+                 "name": "Upgrade to Apple",
+                 "item": [],
+                 "id": "10",
+                 "offercode": "Live now"
+                 }
+                 
+                 ]
+}

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Recharge</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>DTH Recharge</string>
+			<key>offer</key>
+			<string>Win Full HD LED TV</string>
+			<key>code</key>
+			<string>PAYDTH</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Recharge or Pay Bills</string>
+			<key>offer</key>
+			<string>&amp; Get ₹500 Cashback on Flight Bookings</string>
+			<key>code</key>
+			<string>PAY2FLY</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Recharge or Pay Your Bill</string>
+			<key>offer</key>
+			<string>Win Yamaha Fascino Digital Gold &amp; More</string>
+			<key>code</key>
+			<string>BUMPER</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaun Banega Lakhpati</string>
+			<key>offer</key>
+			<string>Win $1 Lakh Cashback on Mobile Recharge &amp; Bill Payments</string>
+			<key>New item</key>
+			<string>LAKHPATI</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>Utilities</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Electricity Bill Payment</string>
+			<key>offer</key>
+			<string>Chance to Win 100% Cashback Every Hour</string>
+			<key>code</key>
+			<string>BILLPAY</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pay Your Electricity Bill</string>
+			<key>offer</key>
+			<string>Get ₹125 Cashback on Pack of Two 14W LED Bulbs</string>
+			<key>code</key>
+			<string>LED125</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro Card Recharge</string>
+			<key>offer</key>
+			<string>Flat ₹20 Cashback</string>
+			<key>code</key>
+			<string>RIDE20</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gas Bill Payment</string>
+			<key>offer</key>
+			<string>Flat ₹25 Cashback on Your First Bill</string>
+			<key>code</key>
+			<string>FIRSTBILL</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>Travel</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Monsoon Deals</string>
+			<key>offer</key>
+			<string>Up to 100% CashBack on Flight Ticket Booking to Leh, Kullu &amp; Shimla</string>
+			<key>code</key>
+			<string>VACATION1000</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monsoon Deals</string>
+			<key>offer</key>
+			<string>Up to 100% CashBack on Flight Ticket Booking to Assam, Meghalaya &amp; Darjeeling</string>
+			<key>code</key>
+			<string>HOLIDAY1000</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monsoon Deals</string>
+			<key>offer</key>
+			<string>Up to 100% CashBack on Flight Ticket Booking to Goa, Andaman &amp; Diu</string>
+			<key>code</key>
+			<string>FUN1000</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monsoon Deals</string>
+			<key>offer</key>
+			<string>Up to 10% CashBack on Flight Ticket Booking to Ooty, Kodaikanal &amp; Munnar</string>
+			<key>code</key>
+			<string>BREAK1000</string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>Accessories Bazaar</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Fidget Spinners</string>
+			<key>offer</key>
+			<string>Starting at ₹99</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mobile Accrsories</string>
+			<key>offer</key>
+			<string>Starting at ₹59</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sunglass</string>
+			<key>offer</key>
+			<string>Starting at ₹59</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Selling Desings</string>
+			<key>offer</key>
+			<string>Min. 80% off</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Watches</string>
+			<key>offer</key>
+			<string>Sarting at ₹59</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>Top Fashion Offer</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Carlton London, Puma &amp; more</string>
+			<key>offer</key>
+			<string>min. 50% Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kurtis</string>
+			<key>offer</key>
+			<string>Flat 30% Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shirts</string>
+			<key>offer</key>
+			<string>30% - 60% Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Formal &amp; Casual Shoes</string>
+			<key>offer</key>
+			<string>Min. 40% Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>Top Electronics Offer</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Pre-GST Sale! ACs, TVs &amp; Appliances</string>
+			<key>offer</key>
+			<string>Up to $10,000 Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Upgrade to Premium Laptops!</string>
+			<key>offer</key>
+			<string>Get Up to $20,000 Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>5 inch &amp; Above Smartphone</string>
+			<key>offer</key>
+			<string>Upto ₹9,000 Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Upgrade to Apple</string>
+			<key>offer</key>
+			<string>Upto ₹10,000 Cashback</string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>offer</key>
+			<string></string>
+			<key>code</key>
+			<string></string>
+			<key>image</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

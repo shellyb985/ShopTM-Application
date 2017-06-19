@@ -1,0 +1,60 @@
+{
+    "BookingItem" : [
+                     {
+                     "id": "Movies",
+                     "image": "Movie_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Bus",
+                     "image": "Bus_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Flight",
+                     "image": "Flight_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Train",
+                     "image": "Train_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Amusement Park",
+                     "image": "AmusementPark_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Hotels",
+                     "image": "Hotel_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Events",
+                     "image": "Event_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Gift Cards",
+                     "image": "GiftCard_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Movies Under 100",
+                     "image": "MovieUnde100_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Cars & Bikes",
+                     "image": "CarBike_BIcon",
+                     "couponCode": "",
+                     },
+                     {
+                     "id": "Deal",
+                     "image": "Deal_BIcon",
+                     "couponCode": "",
+                     }
+                     ]
+
+}
