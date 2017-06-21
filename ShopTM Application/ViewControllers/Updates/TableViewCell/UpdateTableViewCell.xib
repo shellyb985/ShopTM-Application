@@ -26,35 +26,35 @@
                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WYI-g7-Slc">
                         <rect key="frame" x="8" y="8" width="304" height="133.5"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="UBb-0v-Tpp">
-                                <rect key="frame" x="5" y="10" width="40" height="40"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="UBb-0v-Tpp">
+                                <rect key="frame" x="5" y="10" width="35" height="35"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="40" id="0Ya-w1-FFE"/>
-                                    <constraint firstAttribute="width" constant="40" id="3Jg-fM-dFf"/>
+                                    <constraint firstAttribute="height" constant="35" id="0Ya-w1-FFE"/>
+                                    <constraint firstAttribute="width" constant="35" id="3Jg-fM-dFf"/>
                                 </constraints>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mlg-hm-uMz">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mlg-hm-uMz">
                                 <rect key="frame" x="259" y="0.0" width="40" height="40"/>
-                                <color key="backgroundColor" red="0.97848063620000003" green="0.87356228300000005" blue="0.41848330340000001" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="Kb7-3T-I3N"/>
                                     <constraint firstAttribute="width" constant="40" id="L3o-7L-Kl4"/>
                                 </constraints>
+                                <state key="normal" image="more_UIcon"/>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="For Your Dose of Comedy!For Your Dose of Comedy!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ill-YJ-xDN">
-                                <rect key="frame" x="55" y="10" width="194" height="33"/>
+                                <rect key="frame" x="50" y="10" width="199" height="33"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                                 <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Watch Cars 3 &amp; Bank Chor today. Book tickets now &amp; get 50% cashback* upto 150. *T&amp;C apply" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AYo-AW-6LA">
-                                <rect key="frame" x="55" y="52.5" width="239" height="42"/>
+                                <rect key="frame" x="50" y="52.5" width="244" height="42"/>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
                                 <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="June 17 08:03 PM" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8mw-Bf-kHF">
-                                <rect key="frame" x="55" y="109.5" width="239" height="14"/>
+                                <rect key="frame" x="50" y="109.5" width="244" height="14"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="14" id="0xs-8P-u1J"/>
                                 </constraints>
@@ -65,13 +65,13 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="AYo-AW-6LA" firstAttribute="leading" secondItem="WYI-g7-Slc" secondAttribute="leading" constant="55" id="3ig-nZ-HTo"/>
+                            <constraint firstItem="AYo-AW-6LA" firstAttribute="leading" secondItem="WYI-g7-Slc" secondAttribute="leading" constant="50" id="3ig-nZ-HTo"/>
                             <constraint firstItem="UBb-0v-Tpp" firstAttribute="top" secondItem="WYI-g7-Slc" secondAttribute="top" constant="10" id="5u4-Su-o7b"/>
                             <constraint firstItem="Mlg-hm-uMz" firstAttribute="leading" secondItem="Ill-YJ-xDN" secondAttribute="trailing" constant="10" id="BL5-cM-VkK"/>
                             <constraint firstAttribute="bottom" secondItem="8mw-Bf-kHF" secondAttribute="bottom" constant="10" id="BnC-Cy-9sO"/>
                             <constraint firstItem="Ill-YJ-xDN" firstAttribute="top" secondItem="WYI-g7-Slc" secondAttribute="top" constant="10" id="GyO-zY-cd4"/>
                             <constraint firstItem="Mlg-hm-uMz" firstAttribute="top" secondItem="WYI-g7-Slc" secondAttribute="top" id="Hzi-6x-WuO"/>
-                            <constraint firstItem="8mw-Bf-kHF" firstAttribute="leading" secondItem="WYI-g7-Slc" secondAttribute="leading" constant="55" id="JID-M5-5hH"/>
+                            <constraint firstItem="8mw-Bf-kHF" firstAttribute="leading" secondItem="WYI-g7-Slc" secondAttribute="leading" constant="50" id="JID-M5-5hH"/>
                             <constraint firstAttribute="trailing" secondItem="AYo-AW-6LA" secondAttribute="trailing" constant="10" id="KCy-p8-m1u"/>
                             <constraint firstItem="Ill-YJ-xDN" firstAttribute="leading" secondItem="UBb-0v-Tpp" secondAttribute="trailing" constant="10" id="TAJ-9A-Tdh"/>
                             <constraint firstItem="8mw-Bf-kHF" firstAttribute="top" relation="greaterThanOrEqual" secondItem="AYo-AW-6LA" secondAttribute="bottom" constant="5" id="YfD-nL-b3M"/>
@@ -91,6 +91,15 @@
                     <constraint firstItem="WYI-g7-Slc" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="wO7-f3-kNY"/>
                 </constraints>
             </tableViewCellContentView>
+            <connections>
+                <outlet property="imgUpdateIcon" destination="UBb-0v-Tpp" id="M6u-JY-w8B"/>
+                <outlet property="lblDetail" destination="AYo-AW-6LA" id="Tdo-tm-2Hz"/>
+                <outlet property="lblTime" destination="8mw-Bf-kHF" id="e4h-Af-2dw"/>
+                <outlet property="lblTitle" destination="Ill-YJ-xDN" id="5zh-RX-7bz"/>
+            </connections>
         </tableViewCell>
     </objects>
+    <resources>
+        <image name="more_UIcon" width="25" height="25"/>
+    </resources>
 </document>

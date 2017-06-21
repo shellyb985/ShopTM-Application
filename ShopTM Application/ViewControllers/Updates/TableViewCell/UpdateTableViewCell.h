@@ -10,4 +10,13 @@
 
 @interface UpdateTableViewCell : UITableViewCell
 
+
+@property (weak, nonatomic) IBOutlet UILabel *lblTitle;
+@property (weak, nonatomic) IBOutlet UILabel *lblDetail;
+@property (weak, nonatomic) IBOutlet UILabel *lblTime;
+@property (weak, nonatomic) IBOutlet UIImageView *imgUpdateIcon;
+
+
+
+
 @end

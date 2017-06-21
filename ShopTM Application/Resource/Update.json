@@ -1,79 +1,75 @@
 {
-    "Travel": [
-               {
-               "name" : "For Your Dose of Comedy!",
-               "detail" : "Watch Cars3 & Bank Chor today. Book ticket now & get 50% cashback upto Rs.150.*T&C apply.",
-               "time" : "Jun 17 08:03 PM",
-               "type" : "offer"
+    "update": [{
+               "name": "For Your Dose of Comedy!",
+               "detail": "Watch Cars3 & Bank Chor today. Book ticket now & get 50% cashback upto Rs.150.*T&C apply.",
+               "time": "Jun 17 08:03 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Dont Miss the Latest Movies!",
+               "detail": "Get 50% Cashback up to Rs.100 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 20 09:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Its Big, It's Better, Its Grand",
+               "detail": "Get 50% Cashback up to Rs.500 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 19 07:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "",
+               "detail": "Fare dropped by Rs.1999! Latest fare for madurai to mumbai on 04 jul is Rs.2819",
+               "time": "Jun 18 11:00 AM",
+               "type": "info"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "For Your Dose of Comedy!",
+               "detail": "Watch Cars3 & Bank Chor today. Book ticket now & get 50% cashback upto Rs.150.*T&C apply.",
+               "time": "Jun 17 08:03 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Dont Miss the Latest Movies!",
+               "detail": "Get 50% Cashback up to Rs.100 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 20 09:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Its Big, It's Better, Its Grand",
+               "detail": "Get 50% Cashback up to Rs.500 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 19 07:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "",
+               "detail": "Fare dropped by Rs.1999! Latest fare for madurai to mumbai on 04 jul is Rs.2819",
+               "time": "Jun 18 11:00 AM",
+               "type": "info"
+               }, {
+               "name": "For Your Dose of Comedy!",
+               "detail": "Watch Cars3 & Bank Chor today. Book ticket now & get 50% cashback upto Rs.150.*T&C apply.",
+               "time": "Jun 17 08:03 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Dont Miss the Latest Movies!",
+               "detail": "Get 50% Cashback up to Rs.100 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 20 09:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
+               "name": "Its Big, It's Better, Its Grand",
+               "detail": "Get 50% Cashback up to Rs.500 on ticket for the latest movies. Use code: MATINEE100 & book now. *T&C apply",
+               "time": "Jun 19 07:00 PM",
+               "type": "offer"
                },
                {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
-               },
-               {
-               "name" : "",
-               "detail" : "",
-               "time" : "",
-               "type" : ""
-               },
-               
-
+               "name": "",
+               "detail": "Fare dropped by Rs.1999! Latest fare for madurai to mumbai on 04 jul is Rs.2819",
+               "time": "Jun 18 11:00 AM",
+               "type": "info"
+               }
                ]
     
     
